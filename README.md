@@ -1,7 +1,7 @@
 ### OVERVIEW
 
 This is an example implementation of part of the algorithm in the article:
-Precise High-order Meshing of 2D Domains with Rational Bézier Curves.
+[Precise High-order Meshing of 2D Domains with Rational Bézier Curves](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14604)
 
 It is implemented based on the framework in the following article:
 Bézier Guarding: Precise Higher-Order Meshing of Curved 2D Domains.
